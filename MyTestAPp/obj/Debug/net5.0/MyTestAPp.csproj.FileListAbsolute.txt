@@ -1,0 +1,12 @@
+C:\Users\thain\source\repos\MyTestAPp\MyTestAPp\bin\Debug\net5.0\MyTestAPp.deps.json
+C:\Users\thain\source\repos\MyTestAPp\MyTestAPp\bin\Debug\net5.0\MyTestAPp.dll
+C:\Users\thain\source\repos\MyTestAPp\MyTestAPp\bin\Debug\net5.0\ref\MyTestAPp.dll
+C:\Users\thain\source\repos\MyTestAPp\MyTestAPp\bin\Debug\net5.0\MyTestAPp.pdb
+C:\Users\thain\source\repos\MyTestAPp\MyTestAPp\obj\Debug\net5.0\MyTestAPp.csproj.AssemblyReference.cache
+C:\Users\thain\source\repos\MyTestAPp\MyTestAPp\obj\Debug\net5.0\MyTestAPp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thain\source\repos\MyTestAPp\MyTestAPp\obj\Debug\net5.0\MyTestAPp.AssemblyInfoInputs.cache
+C:\Users\thain\source\repos\MyTestAPp\MyTestAPp\obj\Debug\net5.0\MyTestAPp.AssemblyInfo.cs
+C:\Users\thain\source\repos\MyTestAPp\MyTestAPp\obj\Debug\net5.0\MyTestAPp.csproj.CoreCompileInputs.cache
+C:\Users\thain\source\repos\MyTestAPp\MyTestAPp\obj\Debug\net5.0\MyTestAPp.dll
+C:\Users\thain\source\repos\MyTestAPp\MyTestAPp\obj\Debug\net5.0\ref\MyTestAPp.dll
+C:\Users\thain\source\repos\MyTestAPp\MyTestAPp\obj\Debug\net5.0\MyTestAPp.pdb
